@@ -1,7 +1,7 @@
 # Product Sales Analysis
 
 ### Project Overview
-
+---
 This data analysis project aims to provide insights into the sales performance of product of a company for the past 6 months. By analysing various approach of the sales method, we seek to identify trends, make data-driven recommendation and gain a deeper understanding of the product sales with each methods.
 
 ## Data Sources
