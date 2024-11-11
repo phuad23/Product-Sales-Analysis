@@ -35,17 +35,22 @@ EDA involves exploring the product sales data to answer key questions, such as;
 customer_approach_count= df['sales_method'].value_counts()
 print(customer_approach_count)
 ```
+![sales_method_count](https://github.com/user-attachments/assets/6e258a06-c3c9-44a1-b2c5-403684785e6d)
+
 ``` Python
 #What does the spread of the revenue look like overall? And for each method?
 revenue_by_each_approach = df.groupby('sales_method')['revenue'].sum()
 print(revenue_by_each_approach)
 ```
+![distribution_revenue_by_each_approach](https://github.com/user-attachments/assets/046c0a7f-ffe7-45a1-8f6a-eb02ae1fb9ec)
+
 ``` Python
 # Was there any difference in revenue over time for each of the methods?
 # Group the data by weeks and method, and calculate the total revenue for each group
 grouped_df = df.groupby(['week', 'sales_method'])['revenue'].sum().reset_index()
 print(grouped_df)
 ```
+![revenue_by_time_method](https://github.com/user-attachments/assets/410501cd-1639-4069-9ef0-fbb7eb7aedd0)
 
 ### Results/Findings
 The analysis results are summarized as follows;
