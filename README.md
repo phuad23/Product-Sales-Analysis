@@ -30,7 +30,8 @@ EDA involves exploring the product sales data to answer key questions, such as;
 
 - What does the spread of the revenue look like overall? And for each method?
 
-![distribution_revenue_by_each_approach](https://github.com/user-attachments/assets/71b6f0bf-bb38-44f1-ba97-f17d1bb4a099)
+![spread of revenue](https://github.com/user-attachments/assets/a9c75695-554f-4572-8508-401dc59c55ea)
+
 
 - Was there any difference in revenue over time for each of the methods?
 
