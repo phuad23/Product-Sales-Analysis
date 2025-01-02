@@ -73,4 +73,6 @@ Based on the analysis, i will recommend the following actions;
 
 ### Limitations
 I had to replace all the missing values in the revenue table with zero (0) because they would affect the accuracy of my conclusions from the analysis.
-  
+
+### Certification
+- ![Data Analyst](https://github.com/user-attachments/assets/35da6fd6-4a0c-4243-84f0-880c5017bafc)
